@@ -1,0 +1,5 @@
+.DS_Store
+.RData
+.Rhistory
+packrat/lib/
+packrat/src/

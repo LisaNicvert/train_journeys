@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1642847409776.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2E4DCC90",
+    "lastKnownWriteTime" : 1642890183,
+    "last_content_update" : 1642890183220,
+    "path" : "~/Documents/SNCF_close/constants.R",
+    "project_path" : "constants.R",
+    "properties" : {
+        "cursorPosition" : "4,23",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
